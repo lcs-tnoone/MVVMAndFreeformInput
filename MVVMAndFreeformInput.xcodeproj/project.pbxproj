@@ -13,6 +13,7 @@
 		E981BA4E2D68DB7200B7A955 /* PowerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981BA492D68DB7200B7A955 /* PowerView.swift */; };
 		E981BA502D68DBF000B7A955 /* Power.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981BA4F2D68DBF000B7A955 /* Power.swift */; };
 		E981BA522D68DC4100B7A955 /* PowerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E981BA512D68DC4100B7A955 /* PowerViewModel.swift */; };
+		E98804A72D6D059D00090EB4 /* PowerItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E98804A62D6D059C00090EB4 /* PowerItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E981BA492D68DB7200B7A955 /* PowerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerView.swift; sourceTree = "<group>"; };
 		E981BA4F2D68DBF000B7A955 /* Power.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Power.swift; sourceTree = "<group>"; };
 		E981BA512D68DC4100B7A955 /* PowerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerViewModel.swift; sourceTree = "<group>"; };
+		E98804A62D6D059C00090EB4 /* PowerItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerItemView.swift; sourceTree = "<group>"; };
 		E9FCD6C02D6776BA00BDD0B4 /* MVVMAndFreeformInput.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVMAndFreeformInput.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				E981BA492D68DB7200B7A955 /* PowerView.swift */,
+				E98804A62D6D059C00090EB4 /* PowerItemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				E981BA4D2D68DB7200B7A955 /* MVVMAndFreeformInputApp.swift in Sources */,
 				E981BA502D68DBF000B7A955 /* Power.swift in Sources */,
 				E981BA4E2D68DB7200B7A955 /* PowerView.swift in Sources */,
+				E98804A72D6D059D00090EB4 /* PowerItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
